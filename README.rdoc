@@ -1,0 +1,4 @@
+== Rails, React, Browserify
+
+A basic project combining the use of Rails, React, and Browserify.
+

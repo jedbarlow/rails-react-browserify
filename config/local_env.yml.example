@@ -1,0 +1,4 @@
+MYSQL_USER:     'Put the mysql user name here'
+MYSQL_PASSWORD: 'Put the mysql user's password here'
+MYSQL_HOST:     'Put the mysql hostname here (e.g. localhost)'
+MYSQL_SOCKET:   'Put the mysql socket file here (e.g. /var/run/mysqld/mysqld.sock)'
